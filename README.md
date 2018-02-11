@@ -18,17 +18,17 @@
 
 
 ## Token Mechanics (Read before investing)
-* [https://multicoin.capital/2017/12/08/understanding-token-velocity/](Multicoin Capital - Understanding Token Velocity)
-* [https://medium.com/@avtarsehra/why-do-we-need-tokens-anyway-fa829fbcf870](Why do we need tokens anyway?)
-* [http://vitalik.ca/general/2017/06/09/sales.html](Vitalik Buterin - Sales)
+* [Understanding Token Velocity](https://multicoin.capital/2017/12/08/understanding-token-velocity)
+* [Why do we need tokens anyway?](https://medium.com/@avtarsehra/why-do-we-need-tokens-anyway-fa829fbcf870)
+* [Vitalik Buterin - Sales](http://vitalik.ca/general/2017/06/09/sales.html)
 
 
 ## Governance
-* [http://vitalik.ca/general/2017/12/17/voting.html](Vitalik Buterin - Voting)
+* [Vitalik Buterin - Voting](http://vitalik.ca/general/2017/12/17/voting.html)
 
 
 ## Macroeconomics
-* [https://medium.com/@avtarsehra/icos-and-economics-of-lemon-markets-96638e86b3b2](ICOs and Economics of Lemon Markets)
+* [ICOs and Economics of Lemon Markets](https://medium.com/@avtarsehra/icos-and-economics-of-lemon-markets-96638e86b3b2)
 
 
 ## Regulations
