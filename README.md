@@ -3,7 +3,7 @@
 ## Introductory
 * [NYTimes - Beyond the Bitcoin Bubble](https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html)
 * [Consensys - 18 Predictions for 2018](https://media.consensys.net/18-predictions-for-2018-7a376ea7bd4b) 
-* [a16z Crypto Reading List](https://a16z.com/2018/02/10/crypto-readings-resources/)
+* [a16z - Crypto Reading List](https://a16z.com/2018/02/10/crypto-readings-resources/)
 
 
 ## Technical Resources
